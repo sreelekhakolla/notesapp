@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661486316703",
+    "project_id": "notesapp-21044",
+    "storage_bucket": "notesapp-21044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661486316703:android:506ca64fb46ea4b71fc6aa",
+        "android_client_info": {
+          "package_name": "com.example.quizmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661486316703-qcrqhq4oaob7ptbqpapimb8jmik0km6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmEbu_IpKmMr38xMGVwfxbKCToZdCDFig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661486316703-qcrqhq4oaob7ptbqpapimb8jmik0km6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
